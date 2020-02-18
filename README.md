@@ -1,0 +1,2 @@
+# openAcademy
+Odoo init toturial
